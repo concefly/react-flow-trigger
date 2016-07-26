@@ -1,0 +1,22 @@
+{
+  "name": "react-flow-trigger",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/concefly/react-flow-trigger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/concefly/react-flow-trigger/issues"
+  },
+  "homepage": "https://github.com/concefly/react-flow-trigger#readme",
+  "dependencies": {
+    "react": "^15.2.1"
+  }
+}
